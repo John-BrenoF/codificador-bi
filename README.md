@@ -23,7 +23,8 @@ A ideia central é demonstrar como qualquer informação digital, no fundo, é u
 - **Gerador de QR Code**: Cria um QR Code a partir da mensagem original.
 - **Copiar para Área de Transferência**: Copia o conteúdo codificado.
 
-![alt text](image.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/32407743-14ce-4f7b-b81e-962a739826fc" />
+
 
 ### Interpretador
 
@@ -35,7 +36,8 @@ A ideia central é demonstrar como qualquer informação digital, no fundo, é u
     - Durante a reprodução, o bit que está sendo tocado é destacado na interface.
 - **Gerador de QR Code**: Cria um QR Code a partir da mensagem decodificada.
 
-![alt text](<image copy.png>)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/09dee565-9ffb-47c0-ba13-6063dd7b186a" />
+
 
 ## Como Funciona
 
